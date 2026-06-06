@@ -146,4 +146,12 @@ This dataset is synthetically generated, which produces artificially low varianc
 
 ---
 
+## 📸 Dashboard Preview
+
+![Overview](screenshots/overview.png)
+![Efficiency](screenshots/efficiency.png)
+![Agent](screenshots/agent.png)
+![Failure](screenshots/failure.png)
+
+
 *Built by Ahmed El Desoky Gaffer | https://github.com/AHMEDGAFFER421*
